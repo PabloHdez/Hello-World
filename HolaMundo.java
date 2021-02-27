@@ -6,6 +6,8 @@ public class HolaMundo{
 		System.out.println(naranja + "Hello World");
 		System.out.println(azul + "Segunda Linea");
 		//Otro comentario
+
+		System.out.println("Fin del tutorial de Git");
 	}
 }
 
