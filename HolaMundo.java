@@ -4,8 +4,10 @@ public class HolaMundo{
 		String azul = "\033[34m";
 
 		System.out.println(naranja + "Hello World");
-		System.out.println(azul + "Segunda Linea");
+		System.out.println(azul + "Linea Azul");
 		//Otro comentario
+
+		System.out.println("Fin del tutorial de Git");
 	}
 }
 
